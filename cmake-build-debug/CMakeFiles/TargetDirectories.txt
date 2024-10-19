@@ -1,0 +1,3 @@
+/Users/alex/CLionProjects/simpleConsoleCalcualtor/cmake-build-debug/CMakeFiles/simpleConsoleCalcualtor.dir
+/Users/alex/CLionProjects/simpleConsoleCalcualtor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alex/CLionProjects/simpleConsoleCalcualtor/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -12,9 +12,7 @@ int main() {
 
     bool inputsCompleted {};
     while (not inputsCompleted) {
-        cout << "Enter first variable: " << '\n';
-        cout << "Enter your operator: (+, -, /, *) " << '\n';
-        cout << "Enter second variable: " << '\n';
+        cout << "Enter first variable, then enter your operator, lastly your last variable: ( x + y )" << '\n';
         cin >> firstVariable;
         cin >> operation;
         cin >> secondVariable;

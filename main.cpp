@@ -10,14 +10,16 @@ int main() {
     char yesNo {};
     double secondVariable {};
 
+    bool inputsCompleted {};
     while (not inputsCompleted) {
         cout << "Enter first variable: " << '\n';
-        cin >> firstVariable;
         cout << "Enter your operator: (+, -, /, *) " << '\n';
-        cin >> operation;
         cout << "Enter second variable: " << '\n';
+        cin >> firstVariable;
+        cin >> operation;
         cin >> secondVariable;
 
+        double result {};
         switch (operation) {
             case '+':
                 result = firstVariable + secondVariable;
@@ -36,12 +38,11 @@ int main() {
 
         }
 
-        double result {};
+
         cout << "Result: " << result << endl;
         cout << "Would you like another calculation? (y/n) " << '\n';
         cin >> yesNo;
 
-        bool inputsCompleted {};
         if (yesNo == 'y' || yesNo == 'Y') {
             inputsCompleted = false;
         } else {

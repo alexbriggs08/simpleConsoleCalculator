@@ -5,16 +5,17 @@
 // namespaces
 using namespace std;
 
-int add (int a, int b) {
+// functions ( inside the curly brackets its called the function body)
+double add (double a, double b) {
     return a + b;
 }
-int sub (int a, int b) {
+double sub (double a, double b) {
     return a - b;
 }
-int multiply (int a, int b) {
+double multiply (double a, double b) {
     return a * b;
 }
-int divide (int a, int b) {
+double divide (double a, double b) {
     return a / b;
 }
 
@@ -28,9 +29,7 @@ int main() {
 
     while (not inputsCompleted) {
         cout << "Enter first variable, then enter your operator, lastly your last variable: ( x + y )" << '\n';
-        cin >> firstVariable;
-        cin >> operation;
-        cin >> secondVariable;
+        cin >> firstVariable >> operation >> secondVariable;
 
         double result {};
         switch (operation) {

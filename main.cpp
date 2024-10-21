@@ -1,4 +1,3 @@
-// libaraies
 #include <iostream>
 #include <cmath>
 

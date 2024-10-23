@@ -1,11 +1,8 @@
 # ninja log v6
-28	1060	1729702723567180011	CMakeFiles/simpleConsoleCalcualtor.dir/main.cpp.o	ea18e45832cc0a9e
-1060	1203	1729702724598961796	simpleConsoleCalcualtor	7078651da2f01bb6
-9	767	1729700390089305711	CMakeFiles/simpleConsoleCalcualtor.dir/scc_getUserInputs.cpp.o	5e53b638af85c51d
-24	998	1729700497640291122	CMakeFiles/simpleConsoleCalcualtor.dir/scc_doCalculations.cpp.o	65050bd5473580ac
-22	867	1729692083694417442	CMakeFiles/simpleConsoleCalcualtor.dir/scc_errorMessage.cpp.o	775cb810e9d45f3a
-8	921	1729708366223758324	CMakeFiles/simpleConsoleCalcualtor.dir/scc_doCalculations.cpp.o	65050bd5473580ac
-7	926	1729708366222643140	CMakeFiles/simpleConsoleCalcualtor.dir/main.cpp.o	ea18e45832cc0a9e
-926	1085	1729708367141916987	simpleConsoleCalcualtor	7078651da2f01bb6
 8	707	1729708373124030077	CMakeFiles/simpleConsoleCalcualtor.dir/main.cpp.o	ea18e45832cc0a9e
 707	756	1729708373823347778	simpleConsoleCalcualtor	7078651da2f01bb6
+9	767	1729700390089305711	CMakeFiles/simpleConsoleCalcualtor.dir/scc_getUserInputs.cpp.o	5e53b638af85c51d
+8	921	1729708366223758324	CMakeFiles/simpleConsoleCalcualtor.dir/scc_doCalculations.cpp.o	65050bd5473580ac
+22	867	1729692083694417442	CMakeFiles/simpleConsoleCalcualtor.dir/scc_errorMessage.cpp.o	775cb810e9d45f3a
+24	1333	1729709027687658672	CMakeFiles/simpleConsoleCalcualtor.dir/main.cpp.o	ea18e45832cc0a9e
+1333	1495	1729709028996020175	simpleConsoleCalcualtor	7078651da2f01bb6

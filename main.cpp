@@ -1,8 +1,6 @@
 #include <iostream>
 #include <cmath>
-#include "doCalculations.h"
-#include "errorMessage.h"
-#include "getUserInputs.h"
+#include "functions.h"
 
 int main() {
     char yesNo{};

@@ -7,6 +7,5 @@ add_executable(simpleConsoleCalcualtor main.cpp
         scc_getUserInputs.cpp
         scc_doCalculations.cpp
         scc_errorMessage.cpp
-        doCalculations.h
-        errorMessage.h
-        getUserInputs.h)
+        functions.h
+)

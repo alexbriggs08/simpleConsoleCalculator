@@ -6,7 +6,8 @@
 
 void errorMessage(const std::string& msg);
 
-double doCalculations(const double firstVar, const double secondVar, const char operation) {
+auto doCalculations(const double firstVar, const double secondVar,
+                    const char operation) -> double {
     switch(operation) {
         case '+':
             return firstVar + secondVar;

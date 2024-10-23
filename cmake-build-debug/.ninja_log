@@ -8,3 +8,13 @@
 516	631	1729692111753133855	simpleConsoleCalcualtor	7078651da2f01bb6
 4	433	1729692171319340914	CMakeFiles/simpleConsoleCalcualtor.dir/main.cpp.o	ea18e45832cc0a9e
 433	469	1729692171749039395	simpleConsoleCalcualtor	7078651da2f01bb6
+5	709	1729693117138560115	CMakeFiles/simpleConsoleCalcualtor.dir/main.cpp.o	ea18e45832cc0a9e
+709	823	1729693117843139670	simpleConsoleCalcualtor	7078651da2f01bb6
+9	1081	1729700373561549143	CMakeFiles/simpleConsoleCalcualtor.dir/scc_doCalculations.cpp.o	65050bd5473580ac
+7	1085	1729700373559777708	CMakeFiles/simpleConsoleCalcualtor.dir/scc_getUserInputs.cpp.o	5e53b638af85c51d
+1085	1246	1729700374637069609	simpleConsoleCalcualtor	7078651da2f01bb6
+9	767	1729700390089305711	CMakeFiles/simpleConsoleCalcualtor.dir/scc_getUserInputs.cpp.o	5e53b638af85c51d
+768	817	1729700390847836363	simpleConsoleCalcualtor	7078651da2f01bb6
+24	998	1729700497640291122	CMakeFiles/simpleConsoleCalcualtor.dir/scc_doCalculations.cpp.o	65050bd5473580ac
+23	1002	1729700497639752280	CMakeFiles/simpleConsoleCalcualtor.dir/main.cpp.o	ea18e45832cc0a9e
+1002	1147	1729700498619139264	simpleConsoleCalcualtor	7078651da2f01bb6

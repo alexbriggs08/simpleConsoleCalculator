@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-#include "functions.h"
+#include "functions.h" // grabs all the functions from header files
 
 int main() {
     char yesNo{};

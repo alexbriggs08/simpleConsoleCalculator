@@ -1,6 +1,4 @@
-//
-// Created by Alex Briggs on 10/23/24.
-//
+// grabs / calls all the functions from their respective file
 
 #ifndef FUNCTIONS_H
 #define FUNCTIONS_H

@@ -1,10 +1,8 @@
 #include <iostream>
 #include <cmath>
-
-
-void getUserInputs();
-void errorMessage(const std::string& msg);
-double doCalculations(const double firstVar, const double secondVar, const char operation);
+#include "doCalculations.h"
+#include "errorMessage.h"
+#include "getUserInputs.h"
 
 int main() {
     char yesNo{};
